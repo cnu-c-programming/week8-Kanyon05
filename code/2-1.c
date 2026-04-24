@@ -6,7 +6,7 @@ int main() {
     char *p = "hello";
 
     arr[0] = 'H';
-    printf("s\n", arr);
+    printf("%s\n", arr);
 
 
     return 0;
